@@ -1,4 +1,4 @@
-package me.wenchaofu.demospringboot;
+package me.wenchaofu.demospringboot.properties;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
